@@ -10,6 +10,7 @@ public class Dept {
 		s.studentName();
 		s.studentId();
 		s.studentDept();
+		s.passOut();
 		College c = new College();
 		c.collegeName();
 		c.collegeCode();
