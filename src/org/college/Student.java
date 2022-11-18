@@ -21,4 +21,9 @@ public class Student {
 	public void passOut() {
 		System.out.println("2019");
 	}
+
+	// Jeyaram
+	public void jobRole() {
+		System.out.println("QA");
+	}
 }
