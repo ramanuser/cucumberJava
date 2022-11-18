@@ -11,6 +11,7 @@ public class Dept {
 		s.studentId();
 		s.studentDept();
 		s.passOut();
+		s.jobRole();
 		College c = new College();
 		c.collegeName();
 		c.collegeCode();
